@@ -1,4 +1,5 @@
-./toke-oauth
-./secrets.py
-./prev_data_notion.pkl
-./prev_data_ticktick.pkl
+toke-oauth
+secrets.py
+prev_data_notion.pkl
+prev_data_ticktick.pkl
+
